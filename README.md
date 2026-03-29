@@ -1,14 +1,9 @@
-# Permutation Generator
+# 🔢 Permutation Generator
 
-A simple Python CLI tool to generate permutations of numbers or text.
+A simple CLI tool to generate permutations of numbers or text using Python.
 
-## Features
-- Supports numbers and text
-- Clean output
-- Limit control
+## 🚀 Installation (Termux)
 
-## Author
-kim-do-ni
-
-## Powered by
-ChatGPT
+```bash
+pkg update && pkg upgrade -y
+pkg install git python -y
